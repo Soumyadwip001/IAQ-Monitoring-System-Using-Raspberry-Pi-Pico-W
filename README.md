@@ -1,1 +1,2 @@
-# Indoor-Air-Quality-Monitoring-System-Using-Raspberry-Pi-Pico-W
+The Indoor Air Quality Monitoring System using Raspberry Pi Pico W is a low-cost, compact solution designed to continuously track air pollutants such as PM2.5, temperature, humidity, and gases like CO or VOCs in indoor environments. It uses various environmental sensors interfaced with the Raspberry Pi Pico W microcontroller, which supports Wi-Fi for real-time data logging and
+visualization. This system helps detect unhealthy air conditions, promotes timely ventilation, and encourages healthier indoor spaces, especially in offices, homes, and classrooms.
